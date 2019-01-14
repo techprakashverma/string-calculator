@@ -28,21 +28,12 @@ public class CalculateServiceTest {
 	public void testCalculateFailInvalidExpression_1() throws InvalidExpressionException {
 		ICalculateService calculateService = new CalculateServiceImpl();
 		thrown = ExpectedException.none();
-		// Complete this test case
+		
 		thrown.expect(InvalidExpressionException.class);
 		thrown.expectMessage("Invalid Expression");
 		calculateService.calculate("7+(67(56*2))");
 	}
-
-	@Test(expected = InvalidExpressionException.class)
-	public void testCalculateFailInvalidExpression_2() throws InvalidExpressionException {
-		ICalculateService calculateService = new CalculateServiceImpl();
-		thrown = ExpectedException.none();
-		thrown.expect(InvalidExpressionException.class);
-		thrown.expectMessage("Invalid Expression");
-		calculateService.calculate("7+(67(56*2))");
-	}
-
+	
 	@Test(expected = InvalidExpressionException.class)
 	public void testCheckNumericExpression() throws InvalidExpressionException {
 		ICalculateService calculateService = new CalculateServiceImpl();
