@@ -1,0 +1,318 @@
+2019-01-10 14:46:24 DEBUG CalculateService:21 - CalculateService - accessing result: 
+2019-01-10 15:05:33 DEBUG CalculateService:21 - CalculateService - accessing result: 
+2019-01-10 15:07:47 DEBUG CalculateService:21 - CalculateService - accessing result: 
+2019-01-10 15:08:40 DEBUG CalculateService:21 - CalculateService - accessing result: 
+2019-01-10 15:55:05 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 15:55:54 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 15:56:43 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 15:57:21 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 15:58:22 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:00:16 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:09:09 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:14:54 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:20:36 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:22:01 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:30:56 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:41:47 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:41:58 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 16:59:48 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 17:00:07 ERROR Converter:89 - Please check your given expression ! com.capita.calculator.exception.InvalidExpressionException: InvalidExpression
+2019-01-10 17:00:08 ERROR Converter:89 - Please check your given expression ! com.capita.calculator.exception.InvalidExpressionException: InvalidExpression
+2019-01-10 17:07:23 ERROR Converter:89 - Please check your given expression ! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:07:23 ERROR Converter:89 - Please check your given expression ! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:07:23 ERROR Converter:89 - Please check your given expression ! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:07:23 ERROR Converter:89 - Please check your given expression ! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:07:23 ERROR Converter:89 - Please check your given expression ! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:09:35 ERROR Converter:23 - com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:09:35 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 17:10:54 ERROR Converter:23 - com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:10:54 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-10 17:18:13 ERROR Calculator_client:26 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:20:49 ERROR Calculator_client:26 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:27:15 ERROR Calculator_client:26 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 17:31:58 ERROR Calculator_client:26 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 18:10:26 ERROR Calculator_client:61 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 18:10:30 ERROR Calculator_client:61 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 18:12:32 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 18:20:45 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 22:17:08 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 22:23:07 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 22:31:20 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 22:31:32 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-10 22:46:20 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-11 06:23:35 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-11 06:43:53 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-11 06:44:35 ERROR Calculator_client:27 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-11 06:47:26 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-11 06:48:15 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-11 09:46:05 DEBUG CalculateService:23 - CalculateService - accessing result: 
+2019-01-11 09:59:00 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:01:22 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:02:04 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:02:58 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:17:53 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:22:43 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:25:00 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:25:24 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:32:51 DEBUG CalculateService:26 - CalculateService - accessing result: 
+2019-01-11 10:42:58 DEBUG CalculateService:27 - CalculateService - accessing result: 
+2019-01-11 10:47:39 DEBUG CalculateService:27 - CalculateService - accessing result: 
+2019-01-11 10:47:39 ERROR Calculator_client:40 - Please check your given expression! com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-11 10:48:21 DEBUG CalculateService:27 - CalculateService - accessing result: 
+2019-01-11 12:20:49 DEBUG CalculateService:24 - CalculateService - accessing result: 
+2019-01-11 13:02:04 DEBUG CalculateService:30 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-11 13:03:01 DEBUG CalculateService:30 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-11 14:00:31 DEBUG CalculateService:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 14:02:56 DEBUG CalculateService:23 - Postfix expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-11 14:06:59 DEBUG CalculateService:23 - Postfix expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-11 14:06:59 DEBUG Calculator_client:26 - Calcutaled Result:: 158.00
+2019-01-11 14:09:22 DEBUG CalculateService:23 - Postfix expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-11 14:09:22 DEBUG Calculator_client:26 - Calcutaled Result:: 158.00
+2019-01-11 14:25:34 DEBUG CalculateService:21 - Postfix expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-11 14:25:34 DEBUG Calculator_client:26 - Calcutaled Result:: 158.00
+2019-01-11 14:25:53 DEBUG CalculateService:21 - Postfix expression::[8, *, 7, +]
+2019-01-11 14:25:53 DEBUG Calculator_client:29 - Please check the given expression
+2019-01-11 14:26:25 DEBUG Calculator_client:29 - Please check the given expression
+2019-01-11 14:39:34 DEBUG Calculator_client:96 - Please check the given expression
+2019-01-11 14:39:53 DEBUG CalculateService:21 - Postfix expression::[7, 67, 7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +, (, +]
+2019-01-11 14:39:53 DEBUG Calculator_client:94 - Calcutaled Result:: 158.00
+2019-01-11 14:43:46 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 14:43:46 DEBUG Calculator_client:25 - Calcutaled Result:: -3.00
+2019-01-11 14:44:11 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, *, 7, +]
+2019-01-11 14:44:11 DEBUG Calculator_client:25 - Calcutaled Result:: -17.00
+2019-01-11 14:45:18 DEBUG CalculateService:21 - Postfix expression::[8, *, 7, +]
+2019-01-11 14:45:18 DEBUG Calculator_client:27 - Please check the given expression
+2019-01-11 14:45:37 DEBUG CalculateService:21 - Postfix expression::[8, *, 7, +, 8, *, 7, +]
+2019-01-11 14:45:37 DEBUG Calculator_client:27 - Please check the given expression
+2019-01-11 14:45:47 DEBUG CalculateService:21 - Postfix expression::[8, *, 7, +, 8, *, 7, +, 8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 14:45:47 DEBUG Calculator_client:27 - Please check the given expression
+2019-01-11 14:48:22 DEBUG CalculateService:21 - Postfix expression::[/, *, S, y, s, t, e, m, ., o, u, t, ., p, r, i, n, ", E, n, t, e, r,  , e, x, p, r, e, s, s, i, o, n, :,  , ", t, /, /, ;, 8, 5, *, 8, /, 3, 1, /, -, 5, -,  ]
+2019-01-11 14:48:36 DEBUG CalculateService:21 - Postfix expression::[/, *, S, y, s, t, e, m, ., o, u, t, ., p, r, i, n, ", E, n, t, e, r,  , e, x, p, r, e, s, s, i, o, n, :,  , ", t, /, /, ;, 8, 5, *, 8, /, 3, 1, /, -, 5, -,  ]
+2019-01-11 14:48:47 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 14:48:47 DEBUG Calculator_client:50 - Calcutaled Result:: -3.00
+2019-01-11 14:49:00 DEBUG CalculateService:21 - Postfix expression::[8, *, 7, +]
+2019-01-11 14:49:00 DEBUG Calculator_client:52 - Please check the given expression
+2019-01-11 14:49:20 DEBUG Calculator_client:52 - Please check the given expression
+2019-01-11 14:49:34 DEBUG CalculateService:21 - Postfix expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-11 14:49:34 DEBUG Calculator_client:50 - Calcutaled Result:: 158.00
+2019-01-11 14:50:53 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-11 14:50:53 DEBUG Calculator_client:50 - Calcutaled Result:: -7.00
+2019-01-11 15:22:21 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 7, /, -]
+2019-01-11 15:22:21 DEBUG Calculator_client:26 - Calcutaled Result:: 6.71
+2019-01-11 15:22:35 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 15:24:22 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 0, 0, /, -]
+2019-01-11 15:24:38 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 0, 2, /, -]
+2019-01-11 15:24:38 DEBUG Calculator_client:26 - Calcutaled Result:: 7.00
+2019-01-11 15:27:59 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 15:28:36 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 15:28:45 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 15:45:50 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-11 15:45:50 DEBUG Calculator_client:26 - Calcutaled Result:: -7.00
+2019-01-11 15:46:37 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-11 16:07:33 DEBUG Calculator_client:26 - Calcutaled Result:: -7.00
+2019-01-11 16:12:05 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 16:12:18 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 16:57:57 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 16:57:57 DEBUG Calculator_client:28 - Please check the given expression
+2019-01-11 16:59:27 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 16:59:27 ERROR Calculator_client:28 - Please check the given expressioncom.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-11 17:06:29 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-11 17:06:29 DEBUG Calculator_client:26 - Calcutaled Result:: -7.00
+2019-01-11 17:06:50 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-11 17:06:50 DEBUG Calculator_client:26 - Calcutaled Result:: -7.00
+2019-01-11 17:07:04 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 7, /, -]
+2019-01-11 17:07:04 DEBUG Calculator_client:26 - Calcutaled Result:: 6.71
+2019-01-11 17:18:54 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -,  ]
+2019-01-11 17:18:54 ERROR Calculator_client:28 - Please check the given expressioncom.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-11 17:19:39 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 17:19:39 ERROR Calculator_client:28 - Please check the given expressionnull
+2019-01-11 17:20:15 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 17:21:00 ERROR Calculator_client:28 - Please check the given expressionnull
+2019-01-11 17:21:14 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 17:21:14 ERROR Calculator_client:28 - Please check the given expressionDivision By Zero!
+2019-01-11 17:21:14 ERROR Calculator_client:31 - Reason= Division By Zero!
+2019-01-11 17:22:01 DEBUG CalculateService:21 - Postfix expression::[4, 3, +, 2, 0, /, -]
+2019-01-11 17:22:01 ERROR Calculator_client:28 - Please check the given expressioncom.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-11 17:22:01 ERROR Calculator_client:31 - Reason= Division By Zero!
+2019-01-11 17:53:42 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 17:54:09 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 17:55:18 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 17:55:18 DEBUG Calculator_client:26 - Calcutaled Result:: -3.00
+2019-01-11 17:56:03 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 17:56:40 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 17:58:11 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 17:59:01 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 18:04:31 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-11 22:09:45 DEBUG CalculateService:21 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-13 20:05:36 DEBUG CalculateServiceImpl:23 - Postfix expression::[]
+2019-01-13 20:07:25 DEBUG CalculateServiceImpl:23 - Postfix expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-13 20:07:25 DEBUG Calculator_client:24 - Calcutaled Result:: 158.00
+2019-01-13 20:07:44 ERROR Calculator_client:26 - Please check the given expressioncom.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-13 20:08:45 ERROR Calculator_client:26 - Please check the given expression com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-13 20:09:04 ERROR Calculator_client:26 - Please check the given expression. com.capita.calculator.exception.InvalidExpressionException: Invalid Expression
+2019-01-13 20:09:40 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-13 20:10:20 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, *, 7, +]
+2019-01-13 20:10:20 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-13 20:11:13 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-13 20:11:13 DEBUG Calculator_client:24 - Calcutaled Result:: -3.00
+2019-01-13 22:05:38 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:16:32 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:27:17 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:27:17 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 06:28:16 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:28:16 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 06:29:15 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, *, 7, +]
+2019-01-14 06:29:15 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-14 06:31:41 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:31:41 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 06:34:10 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:34:43 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:35:52 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:46:13 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 06:46:13 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 09:24:14 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 09:24:14 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, *, 7, +]
+2019-01-14 09:24:39 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 09:24:39 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, 7, +]
+2019-01-14 09:46:29 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-14 09:46:41 DEBUG CalculateServiceImpl:23 - Postfix expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-14 09:46:41 DEBUG Calculator_client:24 - Calcutaled Result:: 158.00
+2019-01-14 09:47:02 DEBUG CalculateServiceImpl:23 - Postfix expression::[4, 3, +, 2, 7, *, -]
+2019-01-14 09:47:02 DEBUG Calculator_client:24 - Calcutaled Result:: -7.00
+2019-01-14 09:47:17 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 09:47:17 DEBUG Calculator_client:24 - Calcutaled Result:: -3.00
+2019-01-14 09:47:46 DEBUG CalculateServiceImpl:23 - Postfix expression::[8, *, 7, +]
+2019-01-14 09:47:46 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-14 09:52:19 DEBUG CalculateServiceImpl:23 - Converted expression::[8, *, 7, +]
+2019-01-14 09:52:19 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-14 09:53:41 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-14 09:53:56 DEBUG CalculateServiceImpl:23 - Converted expression::[8, *, 7, +]
+2019-01-14 09:53:56 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-14 09:56:50 ERROR ConverterUtil:39 - Please check the given expression. Invalid Expression
+2019-01-14 09:58:26 ERROR Calculator_client:26 - Please check the given expression. Invalid Expression
+2019-01-14 10:03:00 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:03:01 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, *, 7, +]
+2019-01-14 10:03:01 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, *, 7, +, 4, 3, +, 2, 7, /, -]
+2019-01-14 10:04:14 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:04:14 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, *, 7, +]
+2019-01-14 10:04:39 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:04:59 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:06:45 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:07:08 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:07:32 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:08:16 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:08:16 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, *, 7, +]
+2019-01-14 10:08:30 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:08:30 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 8, 7, +]
+2019-01-14 10:10:00 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:10:16 DEBUG CalculateServiceImpl:23 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:56:46 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 10:56:46 DEBUG Calculator_client:24 - Calcutaled Result:: -3.00
+2019-01-14 10:57:01 ERROR Calculator_client:26 - Please check the given expression. Please enter only numeric expression.
+2019-01-14 10:57:58 ERROR Calculator_client:26 - Please check the given expression. Please enter only numeric expression.
+2019-01-14 11:00:31 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:02:29 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:02:48 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:02:48 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 11:12:19 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:13:33 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:14:06 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:14:28 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:18:16 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:19:01 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:32:17 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 2, 7, *, -]
+2019-01-14 11:36:44 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 2, 7, *, -, 5, +]
+2019-01-14 11:37:27 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:38:12 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:39:01 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 2, 0, /, -]
+2019-01-14 11:39:22 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 2, 5, *, -]
+2019-01-14 11:39:48 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:40:41 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 2, 0, /, -]
+2019-01-14 11:41:23 DEBUG CalculateServiceImpl:28 - Converted expression::[8, *, 7, +]
+2019-01-14 11:41:38 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 7, *]
+2019-01-14 11:42:08 DEBUG CalculateServiceImpl:28 - Converted expression::[7, 66, 55, 2, *, +, +]
+2019-01-14 11:46:38 DEBUG CalculateServiceImpl:28 - Converted expression::[7, 6, 5, 2, ^, *, 3, +, 4, 2, /, -, +]
+2019-01-14 11:46:38 DEBUG Calculator_client:24 - Calcutaled Result:: 158.00
+2019-01-14 11:47:03 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 11:47:21 DEBUG CalculateServiceImpl:28 - Converted expression::[8, *, 7, +]
+2019-01-14 11:47:21 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 11:50:27 DEBUG CalculateServiceImpl:28 - Converted expression::[8, *, 7, +]
+2019-01-14 11:50:27 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 11:51:02 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 11:51:02 DEBUG Calculator_client:24 - Calcutaled Result:: -3.00
+2019-01-14 11:52:27 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 2, 7, *, -]
+2019-01-14 11:52:27 DEBUG Calculator_client:24 - Calcutaled Result:: -7.00
+2019-01-14 11:53:14 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 2, 7, /, -]
+2019-01-14 11:58:17 DEBUG CalculateServiceImpl:28 - Converted expression::[4, 3, +, 7, 7, /, -]
+2019-01-14 11:58:17 DEBUG Calculator_client:24 - Calcutaled Result:: 6.00
+2019-01-14 12:15:05 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:15:51 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:15:51 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, (, +]
+2019-01-14 12:15:51 DEBUG CalculateServiceImpl:28 - Converted expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:17:06 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:17:06 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, +, (, +]
+2019-01-14 12:17:06 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:17:39 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:17:39 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, +, (, +]
+2019-01-14 12:17:39 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:17:51 DEBUG CalculateServiceImpl:28 - expression::[8, 7, *, +]
+2019-01-14 12:18:20 DEBUG CalculateServiceImpl:28 - expression::[8, 7, *, +]
+2019-01-14 12:18:30 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:18:30 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, +, (, +]
+2019-01-14 12:18:30 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, 7, *, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:18:42 DEBUG CalculateServiceImpl:28 - expression::[8, 7, *, +]
+2019-01-14 12:18:59 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:20:28 DEBUG CalculateServiceImpl:28 - expression::[8, 7, *, +]
+2019-01-14 12:20:28 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 12:22:50 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:22:50 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 12:22:50 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:23:25 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:23:25 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 12:32:27 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:32:27 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 12:36:49 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:38:34 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 12:40:55 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:44:28 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:44:28 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 12:44:40 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:44:48 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 12:45:48 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:46:01 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:46:01 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 12:46:01 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:47:16 DEBUG CalculateServiceImpl:28 - expression::[8, 7, +]
+2019-01-14 12:47:48 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:48:00 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:48:09 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:48:09 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 12:48:09 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:50:06 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 12:51:44 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 12:55:21 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 12:57:35 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:58:31 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 12:58:31 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 13:00:46 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 13:05:24 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 13:09:56 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 13:09:56 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 13:09:56 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 13:24:44 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 13:53:37 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 13:54:42 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 13:55:42 ERROR Calculator_client:26 - Invalid Expression
+2019-01-14 14:03:20 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 14:03:20 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 14:03:20 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 14:04:35 DEBUG CalculateServiceImpl:28 - expression::[8, *, 7, +]
+2019-01-14 14:04:46 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 14:04:46 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 14:04:46 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 14:05:08 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 14:05:08 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +]
+2019-01-14 14:05:08 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -, 7, 66, 8, *, 7, +, (, +, 4, 3, +, 2, 0, /, -]
+2019-01-14 14:11:15 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 14:12:45 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
+2019-01-14 14:33:33 DEBUG CalculateServiceImpl:28 - expression::[8, 5, *, 8, /, 3, 1, /, -, 5, -]
